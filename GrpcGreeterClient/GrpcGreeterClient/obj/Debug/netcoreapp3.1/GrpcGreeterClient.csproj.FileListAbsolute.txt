@@ -1,0 +1,17 @@
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.exe
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfoInputs.cache
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.AssemblyInfo.cs
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csprojAssemblyReference.cache
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.csproj.CopyComplete
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.deps.json
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.json
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.runtimeconfig.dev.json
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\bin\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.dll
+E:\work\TSP.NET\GitLabs\TSP.NET-Lab7\GrpcGreeterClient\GrpcGreeterClient\obj\Debug\netcoreapp3.1\GrpcGreeterClient.pdb
